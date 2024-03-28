@@ -13,3 +13,4 @@
 ## general
 - Learning and Leveraging World Models in Visual Representation Learning. [[paper]](https://arxiv.org/pdf/2403.00504.pdf)
 - Diffusion World Model. [[paper]](https://arxiv.org/pdf/2402.03570.pdf)
+- Reasoning with Language Model is Planning with World Model. [[code]](https://github.com/Ber666/llm-reasoners)
